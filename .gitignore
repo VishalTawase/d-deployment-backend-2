@@ -1,3 +1,5 @@
+/node_modules
+
 # echo "# d-deployment-backend-2" >> README.md
 # git init
 # git add README.md
